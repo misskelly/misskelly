@@ -8,7 +8,7 @@
   </a>
   &nbsp; &nbsp;
   </p>
-- 🌱 I’m currently learning how to implement a Contentful CMS and constantly learning about accessibility
+- 🌱 I’m currently deep-diving into monorepo tooling, yarn, typescript config, babel, webpack, Next.js, and Python.
 - <p> 👩‍💻 My current stack: <span>&nbsp;
   <img alt='React' title='React' height="25" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"> &nbsp;&nbsp;
   <img alt='JavaScript' title='JavaScript' height="25" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"> &nbsp;&nbsp;
